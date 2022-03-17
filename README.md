@@ -27,7 +27,7 @@ These datasets comprise of bulk and raw data that needs to be transformed and cl
 <img width="150" alt="Customer" src="https://user-images.githubusercontent.com/100192267/158633317-f3be96bd-e806-414e-a7e7-bef2b461ac20.png">
 
 <p><b>Individual</b>: This table contain all Individual data information.</p>
-![unnamed (1)]  https://user-images.githubusercontent.com/100331434/158732877-1c3047a7-7b57-4949-a401-96eb496cd82c.png
+![unnamed (1)](https://user-images.githubusercontent.com/100331434/158733316-d80cbd9a-6074-42b4-ac1a-4db52899d972.png)
 
 <p><b>Credit Card</b>: This table contain all credit card data information.</p>
 <img width="150" alt="CreditCard" src="https://user-images.githubusercontent.com/100192267/158635208-dfacf7cb-6f37-4ffc-ab86-4cb61bddc522.png">
