@@ -11,23 +11,23 @@ These datasets comprise of bulk and raw data that needs to be transformed and cl
 <p>Load the data again to hive and perform analytics.</p>
 
 <br>
-<h4>HDFS EcoSystem</h4>
+<h4>Tool And Technologies</h4>
 <ul>
+ <li>MySQL</li>
  <li>Sqoop</li>
  <li>Hive</li>
  <li>Spark</li>
- <li>PySpark</li>
 </li>
 </ul>  
 
 <br>
 <h3>Data Source Description</h3>
-<p><b>Customer Test</b>: This table contain all customer data related information.</p>
+<p><b>Customer</b>: This table contain all customer data related information.</p>
 
 <img width="150" alt="Customer" src="https://user-images.githubusercontent.com/100192267/158633317-f3be96bd-e806-414e-a7e7-bef2b461ac20.png">
 
-<p><b>Individual Text</b>: This table contain all Individual data information.</p>
-<img width="150" alt="Customer" src="https://user-images.githubusercontent.com/100192267/158634113-93a1de80-5058-456a-9635-6af1ee64dcd2.png">
+<p><b>Individual</b>: This table contain all Individual data information.</p>
+![unnamed (1)](https://user-images.githubusercontent.com/100331434/158732877-1c3047a7-7b57-4949-a401-96eb496cd82c.png)
 
 <p><b>Credit Card</b>: This table contain all credit card data information.</p>
 <img width="150" alt="CreditCard" src="https://user-images.githubusercontent.com/100192267/158635208-dfacf7cb-6f37-4ffc-ab86-4cb61bddc522.png">
