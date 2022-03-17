@@ -28,7 +28,13 @@ create table credit_hive(CreditCardID  int,CardType string,CardNumber bigint,Exp
 <p>load data inpath "/user/saif/HFS/Input/adventureworks1/" into table credit_hive;</p>
 
 
+<b>Analytics Query</b>
 
+select sum(totalpurchaseytd),education,occupation from sqlhive group by education,occupation;
+
+select sum(numbercarsowned),territoryid,gender from sqlhive group by territoryid,gender;
+
+select  yearlyincome, education, sum(totalpurchaseytd) num_of_occurence from sqlhive  group by yearlyincome, education;
 
 
 
