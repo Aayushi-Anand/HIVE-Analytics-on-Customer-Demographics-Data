@@ -23,7 +23,7 @@ if __name__ == '__main__':
                      df3.NumberChildrenAtHome.cast("int"),df3.Education,df3.Occupation,df3.HomeOwnerFlag.cast("int"),
                      df3.NumberCarsOwned.cast("int"),df3.CommuteDistance)
 
-    df4.show()
+    #df4.show()
     # df4.printSchema()
     df4.write.mode("overwrite").format("parquet").saveAsTable("adventureworks.sqlhive")
 
